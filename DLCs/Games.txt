@@ -7,5 +7,11 @@ KorvusDev
 <Banner-url>
 https://drive.google.com/uc?export=download&id=1AX8rQtn1Iq-7AfARHWpGu23TUDBp1b8t
 //<---###--->//
-
+20042024131015
+Test 1
+KorvusDev
+<DLC Description>
+<Type --> 0 = All, 1 = PC, 2 = Android>
+<Banner-url>
+https://drive.google.com/uc?export=download&id=1AX8rQtn1Iq-7AfARHWpGu23TUDBp1b8t
 --END--
